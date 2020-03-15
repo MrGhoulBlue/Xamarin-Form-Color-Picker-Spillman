@@ -1,0 +1,13 @@
+C:\Users\M. Casas\source\repos\Colorpicker\Colorpicker\Colorpicker\bin\Debug\netstandard2.0\Colorpicker.deps.json
+C:\Users\M. Casas\source\repos\Colorpicker\Colorpicker\Colorpicker\bin\Debug\netstandard2.0\Colorpicker.dll
+C:\Users\M. Casas\source\repos\Colorpicker\Colorpicker\Colorpicker\obj\Debug\netstandard2.0\Colorpicker.csprojAssemblyReference.cache
+C:\Users\M. Casas\source\repos\Colorpicker\Colorpicker\Colorpicker\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\M. Casas\source\repos\Colorpicker\Colorpicker\Colorpicker\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\M. Casas\source\repos\Colorpicker\Colorpicker\Colorpicker\obj\Debug\netstandard2.0\Colorpicker.AssemblyInfoInputs.cache
+C:\Users\M. Casas\source\repos\Colorpicker\Colorpicker\Colorpicker\obj\Debug\netstandard2.0\Colorpicker.AssemblyInfo.cs
+C:\Users\M. Casas\source\repos\Colorpicker\Colorpicker\Colorpicker\bin\Debug\netstandard2.0\ref\Colorpicker.dll
+C:\Users\M. Casas\source\repos\Colorpicker\Colorpicker\Colorpicker\bin\Debug\netstandard2.0\Colorpicker.pdb
+C:\Users\M. Casas\source\repos\Colorpicker\Colorpicker\Colorpicker\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\M. Casas\source\repos\Colorpicker\Colorpicker\Colorpicker\obj\Debug\netstandard2.0\Colorpicker.dll
+C:\Users\M. Casas\source\repos\Colorpicker\Colorpicker\Colorpicker\obj\Debug\netstandard2.0\ref\Colorpicker.dll
+C:\Users\M. Casas\source\repos\Colorpicker\Colorpicker\Colorpicker\obj\Debug\netstandard2.0\Colorpicker.pdb
